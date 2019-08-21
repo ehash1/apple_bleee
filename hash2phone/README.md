@@ -39,7 +39,7 @@ Fill database with hashes for phone numbers range with your favorite preffix (e.
 - Postgresql
 
 ```
-python3 hashmap_gen.py 1213
+python hashmap_gen.py 1213
 ```
 
 - SQLite
